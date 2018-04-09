@@ -15,4 +15,5 @@ Joshua Mak|TBA|TBA|joshmak|Active|N/A
 Kyle Blakeman|[@kablakeman](https://github.com/kablakeman)|kblakeman|Active|N/A
 Oliver Rew|[@rewsiffer](https://github.com/rewsiffer)|oliverr|Active|N/A
 Marie House|[@hmarie2](https://github.com/hmarie2)|hmarie|Active|N/A
+Jacob Tiller|[@jacobtiller](https://github.com/jacobtiller)|jtiller|Active|N/A
 -|-|test|disabled|disabled
