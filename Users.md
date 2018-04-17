@@ -19,4 +19,5 @@ Jacob Tiller|[@jacobtiller](https://github.com/jacobtiller)|jtiller|Active|N/A
 Chad Coates|[@chroco](https://github.com/chroco)|chadcoates|Active|N/A
 Joshua Lake|[@joshlake](https://github.com/joshlake)|joshlake|Active|N/A
 Andrew Capatina|[@andrewcapatina](https://github.com/andrewcapatina)|acapatina|Active|N/A
+Ryan Mide|||ACtive|N/A
 -|-|test|disabled|disabled
