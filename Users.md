@@ -21,4 +21,5 @@ Joshua Lake|[@joshlake](https://github.com/joshlake)|joshlake|Active|N/A
 Andrew Capatina|[@andrewcapatina](https://github.com/andrewcapatina)|acapatina|Active|N/A
 Ryan Mide|||Active|N/A
 Adam Harris|[@SaturnVF1](https://github.com/SaturnVF1)|adamh|Active|N/A
+Yohannes Gulelat|[@RocketmanYG](https://github.com/RocketmanYG)|yohannesgulelat|Active|N/A
 -|-|test|disabled|disabled
