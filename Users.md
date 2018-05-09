@@ -22,4 +22,5 @@ Andrew Capatina|[@andrewcapatina](https://github.com/andrewcapatina)|acapatina|A
 Ryan Mide|||Active|N/A
 Adam Harris|[@SaturnVF1](https://github.com/SaturnVF1)|adamh|Active|N/A
 Yohannes Gulelat|[@RocketmanYG](https://github.com/RocketmanYG)|yohannesgulelat|Active|N/A
+Bertrand DeChant|[@MechBertrand](https://github.com/MechBertrand)|bdechant|Active|N/A
 -|-|test|disabled|disabled
