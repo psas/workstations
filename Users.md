@@ -23,4 +23,5 @@ Ryan Mide|||Active|N/A
 Adam Harris|[@SaturnVF1](https://github.com/SaturnVF1)|adamh|Active|N/A
 Yohannes Gulelat|[@RocketmanYG](https://github.com/RocketmanYG)|yohannesgulelat|Active|N/A
 Bertrand DeChant|[@MechBertrand](https://github.com/MechBertrand)|bdechant|Active|N/A
+Peter McCloud|[@petermccloud](https://github.com/petermccloud)|petermccloud|Active|Admin
 -|-|test|disabled|disabled
